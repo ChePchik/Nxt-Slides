@@ -10,7 +10,7 @@ const initialSlidesList = [
   {
     id: 'cc6e1752-a063-11ec-b909-0242ac120002',
     heading: 'Welcome',
-    description: 'Rahul',
+    description: 'Pavan',
   },
   {
     id: 'cc6e1aae-a063-11ec-b909-0242ac120002',
