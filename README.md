@@ -123,4 +123,4 @@ In this project, you are going to build a **Nxt Slides** Application.
   - Standard naming conventions
   - The code must be easily understandable
   - The code must be readable
-</details>
+</details># NXT-slides
